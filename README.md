@@ -3,6 +3,7 @@ The simplest imgur library for python.
 using only a client-id, this library is best for simple, anonymous actions.
 
 currently supports:
+--
 **photos**:
 1. create and upload a photo
 2. delete a photo
