@@ -20,3 +20,9 @@ currently supports:
 5. return a dict of an album
 6. save the album to either json or a pickle.
 
+
+to-do list:
+--
+1. add eror handling that isn't trash
+2. add an option to use an array of client-id's to bypass rate limit.
+3. simplify the code a little as it's a little messy (yet pretty straightforward so it's very readable and understandable)
